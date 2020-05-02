@@ -22,7 +22,7 @@ First preprocess the data and train the model
 python start.py
 ```
 
-then you can predict, or use the default model
+then you can predict, or use the default model, using
 
 ```
 python predict.py
