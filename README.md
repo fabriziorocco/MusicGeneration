@@ -33,7 +33,7 @@ python predict.py
 Add additional notes about how to deploy this on a live system
 
 
-## Versioning
+## Version
 
 Version 1.0 2-05-20
 
