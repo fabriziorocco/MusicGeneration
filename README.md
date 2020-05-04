@@ -10,11 +10,15 @@ At the end, we have created a proper pipeline to post-process our note sequence 
 
 ### Prerequisites
 
-Before run make sure to install the following package
+Before run make sure to install the following packages
 
 ```
 pip install keras-self-attention
 ```
+```
+pip install music21
+```
+It's also required at least Python 3.x and Keras
 
 ### Running 
 
@@ -29,7 +33,7 @@ then you can predict, or use the default model, using
 ```
 python predict.py
 ```
-
+You can find also the full dataset we used.
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
