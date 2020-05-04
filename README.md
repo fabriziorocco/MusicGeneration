@@ -45,7 +45,7 @@ Version 1.0 02-05-20
 
 ## Authors
 
-* **Fabrizio Rocco** - *Luiss Guido Carli* 
-* **Davide Rosatelli** - *Luiss Guido Carli* 
-* **Roberto Colangelo** - *Luiss Guido Carli* 
+* **Fabrizio Rocco** - *Luiss Guido Carli* - *fabrizio.rocco@studenti.luiss.it*
+* **Davide Rosatelli** - *Luiss Guido Carli* - *davide.rosatelli@studenti.luiss.it*
+* **Roberto Colangelo** - *Luiss Guido Carli* - *roberto.colangelo@studenti.luiss.it* 
 
