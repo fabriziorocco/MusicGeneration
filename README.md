@@ -34,9 +34,6 @@ then you can predict, or use the default model, using
 python predict.py
 ```
 You can find also the full dataset we used.
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 
 ## Version
